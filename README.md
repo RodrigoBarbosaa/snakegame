@@ -1,3 +1,3 @@
 # snakegame
-my first game with python 
-its a simple snake game; I utilized some librarys to improve the jogability.
+my first game with python.
+It's a simple snake game, i utilized some librarys to improve the jogability.
